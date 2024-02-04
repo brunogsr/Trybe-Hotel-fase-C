@@ -21,7 +21,7 @@ namespace TrybeHotel.Controllers
             _geoService = geoService;
         }
 
-        // 11. Desenvolva o endpoint GET /geo/status
+        // 11. Desenvolva o endpoint GET /geo/status.
         [HttpGet]
         [Route("status")]
         public async Task<IActionResult> GetStatus()
