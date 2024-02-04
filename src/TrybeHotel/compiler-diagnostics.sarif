@@ -73,12 +73,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/bruno/Documentos/Projetos/CSharp_eletiva/csharp-030-csharp-projeto-trybe-hotel-fase-c/src/TrybeHotel/Services/GeoService.cs",
+                "uri": "file:///home/bruno/Documentos/Projetos/CSharp_eletiva/csharp-030-csharp-projeto-trybe-hotel-fase-c/src/TrybeHotel/Controllers/GeoController.cs",
                 "region": {
-                  "startLine": 16,
-                  "startColumn": 35,
-                  "endLine": 16,
-                  "endColumn": 47
+                  "startLine": 35,
+                  "startColumn": 42,
+                  "endLine": 35,
+                  "endColumn": 61
                 }
               }
             }
@@ -94,12 +94,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/bruno/Documentos/Projetos/CSharp_eletiva/csharp-030-csharp-projeto-trybe-hotel-fase-c/src/TrybeHotel/Controllers/GeoController.cs",
+                "uri": "file:///home/bruno/Documentos/Projetos/CSharp_eletiva/csharp-030-csharp-projeto-trybe-hotel-fase-c/src/TrybeHotel/Services/GeoService.cs",
                 "region": {
-                  "startLine": 35,
-                  "startColumn": 42,
-                  "endLine": 35,
-                  "endColumn": 61
+                  "startLine": 16,
+                  "startColumn": 35,
+                  "endLine": 16,
+                  "endColumn": 47
                 }
               }
             }
